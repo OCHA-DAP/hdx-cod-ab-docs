@@ -1,0 +1,12 @@
+$schema: https://api.gitbook.com/gitbook-docs.yaml
+site:
+  title: HDX COD-AB Documentation
+  structure:
+    - type: space
+      key: cod-ab-docs
+      title: COD-AB Documentation
+      path: docs
+      default: true
+      content:
+        directory: ./docs
+        language: en
